@@ -1,6 +1,6 @@
 # DeepTop
 
-1. [Required packages](https://github.com/mjagkow/DeepTop/wiki/Home#required-packages)
+1. [Required packages](https://github.com/mjagkow/DeepTop/blob/master/README.md#required-packages)
 
 
 # Required packages
